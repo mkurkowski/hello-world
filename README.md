@@ -1,4 +1,4 @@
 # hello-world
 First test repository
 
-I'm just starting with git and github
+trying to add and commit a file in the same command
